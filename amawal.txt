@@ -1,11 +1,11 @@
-Aɛeggal/Iɛeggalen = membre/membres
-Alɣu/ Ilɣa = notification(s)
-Amaɣnu = profil
-Amdakel/imdukal = Ami(s)
-Araz/Arazen = Cadeau/Cadeaux
-Aseɣwen = Lien
-Awal uffir = Mot de passe
-Awennit = Commentaire
+Aɛeggal/Iɛeggalen | membre/membres
+Alɣu/ Ilɣa | notification(s)
+Amaɣnu | profil
+Amdakel/imdukal | Ami(s)
+Araz/Arazen | Cadeau/Cadeaux
+Aseɣwen | Lien
+Awal uffir | Mot de passe
+Awennit | Commentaire
 Axxam /ou/ Agejdan = Accueil
 Aẓawan = Musique
 Beddel = changer
@@ -35,9 +35,9 @@ Taɣlist = Sécurité
 Tasufeɣt = une publication
 Tavidyut/tividyutin= Vidéo(s)
 Tawlaft/tiwlafin= Photo(s)
-Taxtirt/ Tixtirin= Option(s)
-Tigezmi = Une section
-Timahilin n tuffart = Fonctions d’accessibilités
+Taxtirt/ Tixtirin | Option(s)
+Tigezmi | Une section
+Timahilin n tuffart | Fonctions d’accessibilités
 Udem awurman = Automatique
 Urar/Uraren= Jeu(x)
 Wennet = Commenter
