@@ -6,39 +6,39 @@ Araz/Arazen | Cadeau/Cadeaux
 Aseɣwen | Lien
 Awal uffir | Mot de passe
 Awennit | Commentaire
-Axxam /ou/ Agejdan = Accueil
-Aẓawan = Musique
-Beddel = changer
-Err= répondre
-Ffeɣ= Se déconnecter
-Ffer = Cacher
-Ḥemmleɣ = j’adore/
-Iɛǧeb-iyi = j’aime/
-Imenṭaḍen = Autocollants
-Iɣewwaṛen n isnasen = paramètres des application
-Iɣewwaṛen= paramètres
-Isalli/Isallen = information(s)( ou nouvelles)
-Izen/iznan = Message(s)
-Lexlaṣ = Paiement
-Qqen = Se connecter
-Rnu-t/ Rnu-tt = Ajouter ami/ amie
-Sewḥel = Bloquer
-Sken = Afficher
-Snulfu-d = créer
-Sumer = Proposer/Suggégrer
-Tabaḍnit = Confidentialité
-Tabdart taberkant = Liste noire
-Tallelt = Aide
-Tamdakelt/timdukal = Amie(s)
-Tamɣiwent = communauté
-Taɣlist = Sécurité
-Tasufeɣt = une publication
-Tavidyut/tividyutin= Vidéo(s)
-Tawlaft/tiwlafin= Photo(s)
+Axxam /ou/ Agejdan | Accueil
+Aẓawan | Musique
+Beddel | changer
+Err | répondre
+Ffeɣ | Se déconnecter
+Ffer | Cacher
+Ḥemmleɣ | j’adore/
+Iɛǧeb-iyi | j’aime/
+Imenṭaḍen | Autocollants
+Iɣewwaṛen n isnasen | paramètres des application
+Iɣewwaṛen | paramètres
+Isalli/Isallen | information(s)( ou nouvelles)
+Izen/iznan | Message(s)
+Lexlaṣ | Paiement
+Qqen | Se connecter
+Rnu-t/ Rnu-tt | Ajouter ami/ amie
+Sewḥel | Bloquer
+Sken | Afficher
+Snulfu | créer
+Sumer | Proposer/Suggégrer
+Tabaḍnit | Confidentialité
+Tabdart taberkant | Liste noire
+Tallelt | Aide
+Tamdakelt/timdukal | Amie(s)
+Tamɣiwent | communauté
+Taɣlist | Sécurité
+Tasufeɣt | une publication
+Tavidyut/tividyutin | Vidéo(s)
+Tawlaft/tiwlafin | Photo(s)
 Taxtirt/ Tixtirin | Option(s)
 Tigezmi | Une section
 Timahilin n tuffart | Fonctions d’accessibilités
-Udem awurman = Automatique
-Urar/Uraren= Jeu(x)
-Wennet = Commenter
-Ẓreg = modifier
+awurman | Automatique
+Urar/Uraren | Jeu(x)
+Wennet | Commenter
+Ẓreg | modifier
