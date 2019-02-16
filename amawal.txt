@@ -39,5 +39,6 @@ Tamezdagnit/Timezdagnutin = communauté(s)
 Aẓawan = Musique
 Sewḥel = Bloquer
 Awal uffir = Mot de passe
-Beddel = Modifier (ou changer)
+Beddel = changer
+Ẓreg = modifier
 Aseɣwen = Lien
