@@ -1,3 +1,13 @@
+Amazray = Historique
+Agdil = Ecran.
+Afecku/Ifecka= Outil(s)
+Afaylu = Fichier
+Azdam = Téléchargement (Chargement)
+Asbeddi= installation
+Asiggez = Impression
+Asfaylu = fenêtre
+Agalis = Panneau
+Azegrir/Izegrar = Module(s)
 Aɛeggal/Iɛeggalen | membre/membres
 Alɣu/ Ilɣa | notification(s)
 Amaɣnu | profil
@@ -12,21 +22,38 @@ Beddel | changer
 Err | répondre
 Ffeɣ | Se déconnecter
 Ffer | Cacher
+Fren = Sélectionner
+Fren kullec = Sélectionner tout
+Gzem = Couper
 Ḥemmleɣ | j’adore/
 Iɛǧeb-iyi | j’aime/
+Iccer = Onglet
 Imenṭaḍen | Autocollants
 Iɣewwaṛen n isnasen | paramètres des application
 Iɣewwaṛen | paramètres
 Isalli/Isallen | information(s)( ou nouvelles)
 Izen/iznan | Message(s)
+Kkes = Suprimer
 Lexlaṣ | Paiement
+Nɣel = Copier
 Qqen | Se connecter
 Rnu-t/ Rnu-tt | Ajouter ami/ amie
+Sagen = personnaliser
 Sewḥel | Bloquer
 Sken | Afficher
 Snulfu | créer
 Sumer | Proposer/Suggégrer
+Sbedd= instaler
+Siggez = Imprimer
+Senṭeḍ = Coller
+Sefsex = Annuler
+Taẓrigt = Edition
+Taɣbalut = Source
+Tafelwit = Tablette (ou tableau)
+Tangalt = Code
+Tiɣimit = Session
 Tabaḍnit | Confidentialité
+Tabdart/Tibdarin= liste(s)
 Tabdart taberkant | Liste noire
 Tallelt | Aide
 Tamdakelt/timdukal | Amie(s)
@@ -42,3 +69,4 @@ awurman | Automatique
 Urar/Uraren | Jeu(x)
 Wennet | Commenter
 Ẓreg | modifier
+Ɣer zdat/Ɣer deffir = Suivant/Précédant
