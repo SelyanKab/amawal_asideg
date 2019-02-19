@@ -1,77 +1,127 @@
-Amazray | Historique
-Agdil | Ecran.
-Afecku/Ifecka | Outil(s)
-Afaylu | Fichier
-Azdam | Téléchargement (Chargement)
-Asbeddi| installation
-Asiggez | Impression
-Asfaylu | fenêtre
-Agalis | Panneau
-Azegrir/Izegrar | Module(s)
-Aɛeggal/Iɛeggalen | membre/membres
-Alɣu/ Ilɣa | notification(s)
-Amaɣnu | profil
-Amdakel/imdukal | Ami(s)
-Araz/Arazen | Cadeau/Cadeaux
-Aseɣwen | Lien
-Awal uffir | Mot de passe
-Awennit | Commentaire
-Axxam /ou/ Agejdan | Accueil
-Aẓawan | Musique
-Beddel | changer
-Err | répondre
-Ffeɣ | Se déconnecter
-Ffer | Cacher
-Fren | Sélectionner
-Fren kullec | Sélectionner tout
-Gzem | Couper
-Ḥemmleɣ | j’adore/
-Iɛǧeb-iyi | j’aime/
-Iccer = Onglet
-Imenṭaḍen | Autocollants
-Iɣewwaṛen n isnasen | paramètres des application
-Iɣewwaṛen | paramètres
-Isalli/Isallen | information(s)( ou nouvelles)
-Izen/iznan | Message(s)
-Kkes | Suprimer
-Lexlaṣ | Paiement
-Nɣel | Copier
-Qqen | Se connecter
-Rnu-t/ Rnu-tt | Ajouter ami/ amie
-Sagen | personnaliser
-Sewḥel | Bloquer
-Sken | Afficher
-Snulfu | créer
-Sumer | Proposer/Suggégrer
-Sbedd | instaler
-Siggez | Imprimer
-Senṭeḍ | Coller
-Sefsex | Annuler
-Taẓrigt | Edition
-Taɣbalut | Source
-Tafelwit | Tablette (ou tableau)
-Tangalt | Code
-Tiɣimit | Session
-Tabaḍnit | Confidentialité
-Tabdart/Tibdarin | liste(s)
-Tabdart taberkant | Liste noire
-Tallelt | Aide
-Tamdakelt/timdukal | Amie(s)
-Tamɣiwent | communauté
-Taɣlist | Sécurité
-Tasufeɣt | une publication
-Tavidyut/tividyutin | Vidéo(s)
-Tawlaft/tiwlafin | Photo(s)
-Taxtirt/ Tixtirin | Option(s)
-Tigezmi | Une section
-Timahilin n tuffart | Fonctions d’accessibilités
-awurman | Automatique
-Urar/Uraren | Jeu(x)
-Wennet | Commenter
-Ẓreg | modifier
-Ɣer zdat/Ɣer deffir | Suivant/Précédant
+Accueil | Axxam /ou/ Agejdan  
+Ami(s) | Amdakel/imdukal
+Amie(s)| Tamdakelt/timdukal
+Ajouter ami/ amie | Rnu-t/ Rnu-tt  
+Autocollants | Imenṭaḍen
+Annuler | Sefsex 
+Afficher | Sken
+Aide | Tallelt 
+Automatique | Awurman
+Bloquer | Sewḥel
+Cadeau/Cadeaux | Araz/Arazen
+Commentaire | Awennit
+Changer | Beddel
+Cacher | Ffer
+Couper | Gzem
+Copier | Nɣel  
+Créer | Snulfu
+Coller | Senṭeḍ 
+Code | Tangalt
+Confidentialité | Tabaḍnit
+Communauté | Tamɣiwent
+Commenter | Wennet
+Ecran | Agdil
+Edition | Taẓrigt  
+Fichier | Afaylu
+Fenêtre | Asfaylu 
+Fonctions d’accessibilités | Timahilin n tuffart
+Installation | Asbeddi 
+Instaler | Sbedd
+Impression | Asiggez 
+Imprimer | Siggez
+Information(s)( ou nouvelles) | Isalli/Isallen
+J’adore | Ḥemmleɣ
+J’aime | Iɛǧeb-iyi
+Jeu(x) | Urar/Uraren
+Liste(s) | Tabdart/Tibdarin
+Liste noire | Tabdart taberkant
+Lien | Aseɣwen
+Module(s) | Azegrir/Izegrar
+Membre/membres | Aɛeggal/iɛeggalen
+Mot de passe | Awal uffir
+Musique | Aẓawan
+Message(s) |Izen/iznan
+Modifier | Ẓreg
+Notification(s) | Alɣu/ Ilɣa
+Outil(s) | Afecku/Ifecka 
+Onglet | Iccer  
+Option(s) | Taxtirt/ Tixtirin
+Profil | Amaɣnu
+Panneau | Agalis 
+Paramètres des application | Iɣewwaṛen n isnasen 
+Paramètres | Iɣewwaṛen 
+Paiement | Lexlaṣ 
+Personnaliser | Sagen
+Proposer/Suggégrer | Sumer
+Photo(s) | Tawlaft/tiwlafin
+Publication | Tasufeɣt
 Produire | Fares
 Production | Afares
 Produit | Afaris
 Producteur | Anfaras
 Productivité | tifuras
+Répondre | Err
+Se connecter | Qqen
+Se déconnecter | Ffeɣ
+Sélectionner | Fren
+Sélectionner tout | Fren kullec
+Suprimer | Kkes
+Session | Tiɣimit
+Sécurité | Taɣlist 
+Section | Tigezmi
+Source | Taɣbalut 
+Suivant/Précédant | Ɣer zdat/Ɣer deffir
+Téléchargement (Chargement) | Azdam
+Tablette (ou tableau) | Tafelwit
+Vidéo(s) | Tavidyut/tividyutin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
