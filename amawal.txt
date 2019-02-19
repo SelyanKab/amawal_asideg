@@ -42,13 +42,13 @@ Mot de passe | Awal uffir
 Musique | Aẓawan
 Message(s) |Izen/iznan
 Modifier | Ẓreg
-Notification(s) | Alɣu/ Ilɣa
+Notification(s) | Talɣut/ Tilɣa
 Outil(s) | Afecku/Ifecka 
 Onglet | Iccer  
 Option(s) | Taxtirt/ Tixtirin
 Profil | Amaɣnu
 Panneau | Agalis 
-Paramètres des application | Iɣewwaṛen n isnasen 
+Paramètres des application | Iɣewwaṛen n usnas 
 Paramètres | Iɣewwaṛen 
 Paiement | Lexlaṣ 
 Personnaliser | Sagen
